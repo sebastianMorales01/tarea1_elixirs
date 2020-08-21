@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left, #9ccc65, #dce775);
+  }
+  h1 {
+    color: red;
+  }
+  .caja {
+    background: white;
+    padding: 10px; /* relleno*/
+    box-shadow: 3px 3px 15px black; /*sombras- eje x, eje y, difuminado, color*/
+    border-radius: 10px;
+  }
+  .detalle_directions {
+    margin-left: 10px;
+  }
+  .volver {
+    text-decoration: none; /*sin subrayado*/
+    color: indigo;
+    font-weight: bold; /*negrita*/
+  }
+  
